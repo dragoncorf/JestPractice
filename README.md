@@ -1,2 +1,3 @@
-# platzi-store
-Curso de Pruebas unitarias con Jest
+# JestPractice
+
+Unit testing practice with base repo from Platzi
